@@ -1,0 +1,8 @@
+cmake-build-debug
+.idea
+*.o
+tcpconsole
+Makefile
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
